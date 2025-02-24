@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+__pycache__
+*/__pycache__/*
+
+**/log*
+/test/
+
+**.png
+**.csv
+**.pickle
+**.pyc
+**.txt
+
