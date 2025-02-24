@@ -1,0 +1,8 @@
+numpy==1.26.4
+matplotlib==3.8.3
+scipy==1.12.0
+pandas==2.2.1
+notebook==6.1.5
+ipywidgets==8.1.5 
+
+stimupy~=1.1.2
